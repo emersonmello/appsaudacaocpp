@@ -1,6 +1,9 @@
 # Exemplo de aplicação C++ que faz uso do CMake para baixar dependências
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Ubuntu](https://github.com/emersonmello/appsaudacaocpp/actions/workflows/linux.yml/badge.svg)](https://github.com/emersonmello/appsaudacaocpp/actions/workflows/linux.yml)
+[![Windows](https://github.com/emersonmello/appsaudacaocpp/actions/workflows/windows.yml/badge.svg)](https://github.com/emersonmello/appsaudacaocpp/actions/workflows/windows.yml)
+[![macOS](https://github.com/emersonmello/appsaudacaocpp/actions/workflows/macos.yml/badge.svg)](https://github.com/emersonmello/appsaudacaocpp/actions/workflows/macos.yml)
 
 Neste repositório tem-se um pequeno exemplo sobre como organizar o projeto de uma aplicativo C++ usando o CMake e para baixar dependência de bibliotecas que estejam em outro repositório GitHub ou em um outro diretório no sistema de arquivos.
 
